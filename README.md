@@ -29,6 +29,7 @@ Cliente → app.js → Router → Controller → Respuesta
 *Se devuelve la vista al cliente.
 
 Estructura del Proyecto
+
 FrontController/
 │
 ├── controllers/
@@ -43,6 +44,7 @@ FrontController/
 ├── app.js
 ├── package.json
 └── node_modules/
+
 ---------------------------------------------------------------
 controllers
 Contiene la lógica del sistema y las funciones que generan las vistas.
